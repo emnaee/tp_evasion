@@ -1,0 +1,103 @@
+body {
+   font-family: Arial,sans-serif;
+   color: #333;
+}
+
+h1, h2 {
+    color: #2c3e50;
+    text-align: center;
+}
+
+.text-highlight {
+    color: orange;
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+}
+
+.menu-link {
+    text-decoration: none;
+     font-weight: bold;
+     color: #000;
+}
+
+.menu-link:hover {
+    color: orange;
+
+}
+
+#offres {
+    background-color: #f4f9ff;
+}
+
+.voyage-card {
+    border: 1px solid #ccc;
+}
+.voyage-card img {
+    border: 3px solid orange;
+}
+
+.table-tarifs {
+    border-collapse: collapse;
+}
+
+.table-tarifs th,
+.table-tarifs td {
+    border: 1px solid #ccc;
+}
+
+.table-tarifs thead {
+    background-color: #0099cc;
+    color:white;
+}
+
+body {
+    background-image: url("image/Arrière-plan.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+}
+
+main p {
+    text-align: justify;
+    line-height: 150%;
+}
+
+#presentation p {
+    font-style: italic;
+}
+
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.subtitle {
+    word-spacing: 0.5em;
+}
+
+footer p {
+    font-variant: small-caps;
+}
+
+.text-highlight,
+.txt-gras {
+    background-color:#ffeb3b;
+}
+
+.table-tarifs td span {
+    vertical-align: super;
+}
+
+.promo-flash{
+    border-style: double;
+    border-width: thick;
+    border-color: orange;
+}
+
+h2 {
+    text-decoration: underline overline;
+}
